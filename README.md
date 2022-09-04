@@ -13,4 +13,3 @@ Readings are consecutive differing by 1 degree.
 
 ## Things planned to be improved:
 1. Connect each point to the adjacent points (4 max, 2 min)
-2. Browse to select input and out directory instead of having them all in the same directory as the source by default.
